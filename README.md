@@ -22,3 +22,10 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Bulma Framework 
+[Bulma Framework](https://bulma.io/)
+
+
+### FortAwesome
+[FortAwesome](https://fortawesome.com/)
