@@ -1,5 +1,8 @@
 # alura-tracker
 
+## Deploy Vercel
+[https://alura-tracker-vuejs.vercel.app/](https://alura-tracker-vuejs.vercel.app/)
+
 ## Project setup
 ```
 npm install
